@@ -21,6 +21,7 @@ while left < right:
 else:
     print("Palindrome")
 
+```
 
 ## 11. Container With Most Water
 - Place pointers at both ends of the array.
