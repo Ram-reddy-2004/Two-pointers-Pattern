@@ -60,4 +60,11 @@ You’ll see this pattern in problems like:
 - Keep track of the biggest area seen.
 - Stop when the pointers meet.
 
+**1423. Maximum Points You Can Obtain from Cards**
+- Start by taking the first k cards from the left and sum them.
+- Gradually move cards from left to right (swap one left card for one right each time), updating the score.
+- Track the maximum score seen in this process.
+- Return that maximum.
+
+
 
