@@ -66,21 +66,12 @@ You’ll see this pattern in problems like:
 - Track the maximum score seen in this process.
 - Return that maximum.
 
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
+**3. Longest Substring Without Repeating Characters**
+- Initialize two pointers (l and r) to mark the window.
+- Use a fixed-size array or map to store last seen indexes for characters.
+- Iterate r over the string:
+  - If character at r index is already in window (hash[s[r]] >= l), move l to hash[s[r]] + 1.
+  - Always update hash[s[r]] to r.Always update hash[s[r]] to r.
+  - Always update hash[s[r]] to r.
+- Continue until r reaches the string end.
+- Return the maximum length found.
