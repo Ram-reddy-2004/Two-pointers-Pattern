@@ -5,7 +5,7 @@ class Solution {
         for(int i =0;i<n;i++){
             int sum=0;
             for(int j=i+1;j<n;j++){
-                sum = nums[i]+nums[j];
+                sum = nums[i] + nums[j];
                 if(sum == target){
                     res[0] = i;
                     res[1] = j;
