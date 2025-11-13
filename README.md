@@ -82,11 +82,13 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
+| [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -102,4 +104,5 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
+| [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
