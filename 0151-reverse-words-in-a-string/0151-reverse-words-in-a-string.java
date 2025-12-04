@@ -7,12 +7,8 @@ class Solution {
             res[i]= res[n-i-1];
             res[n-i-1] = temp;
         }
-        String result = "";
-        for(String i : res){
-            result += i ;
-            result+=" ";
-        }
-        return result.strip();
+        List<String> resu = new ArrayList<>(Arrays.asList(res));
+        return String.join(" ",resu).strip();
 
     }
 }
