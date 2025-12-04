@@ -82,6 +82,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -108,6 +109,7 @@ You’ll see this pattern in problems like:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
@@ -127,4 +129,8 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
