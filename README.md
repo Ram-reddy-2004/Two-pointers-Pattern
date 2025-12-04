@@ -105,4 +105,12 @@ You’ll see this pattern in problems like:
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
