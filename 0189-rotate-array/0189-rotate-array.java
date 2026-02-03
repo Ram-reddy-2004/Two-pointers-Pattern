@@ -2,16 +2,15 @@ class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k%=n;
-        int[] res=new int[n];
-        int j=0;
-        for(int i = n-k;i<n;i++){
-            res[j++] = nums[i];
-        }
-        for(int i=0;i<n-k;i++){
-            res[j++] = nums[i];
-        }
-        for(int i=0;i<n;i++){
-            nums[i] = res[i];
+        reverse(nums,n-k,n-1);
+        reverse(nums,0,n-k-1);
+        reverse(nums,0,n-1);
+    }
+    void reverse(int[] nums,int start, int end){
+        while(start<=end){
+            int temp = nums[start];
+            nums[start++] = nums[end];
+            nums[end--] = temp;
         }
     }
 }
