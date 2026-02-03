@@ -85,6 +85,7 @@ You’ll see this pattern in problems like:
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -127,9 +128,11 @@ You’ll see this pattern in problems like:
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
