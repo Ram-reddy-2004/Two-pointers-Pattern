@@ -146,4 +146,8 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
