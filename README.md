@@ -150,4 +150,5 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0577-employee-bonus) |
+| [1280-students-and-examinations](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
