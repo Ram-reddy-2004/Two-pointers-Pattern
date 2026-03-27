@@ -83,6 +83,7 @@ You’ll see this pattern in problems like:
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
@@ -152,4 +153,12 @@ You’ll see this pattern in problems like:
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0577-employee-bonus) |
 | [1280-students-and-examinations](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1280-students-and-examinations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
