@@ -83,6 +83,7 @@ You’ll see this pattern in problems like:
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
@@ -127,6 +128,7 @@ You’ll see this pattern in problems like:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +149,7 @@ You’ll see this pattern in problems like:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
