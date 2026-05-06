@@ -85,6 +85,7 @@ You’ll see this pattern in problems like:
 | [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
@@ -126,12 +127,14 @@ You’ll see this pattern in problems like:
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +172,11 @@ You’ll see this pattern in problems like:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
