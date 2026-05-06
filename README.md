@@ -82,6 +82,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
@@ -129,6 +130,7 @@ You’ll see this pattern in problems like:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
@@ -143,6 +145,7 @@ You’ll see this pattern in problems like:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
