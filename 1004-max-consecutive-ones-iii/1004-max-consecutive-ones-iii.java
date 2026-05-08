@@ -7,11 +7,12 @@ class Solution {
 
         for(int r=0;r<n;r++){
             if(nums[r] == 0) zeros++;
-            if(zeros > k){
+            while(zeros > k){ // shrinking condition
                 if(nums[l] == 0) zeros--;
                 l++;
             }
+            max_count = Math.max(max_count,r-l+1);
         }
-        return n-l;
+        return max_count;
     }
 }
