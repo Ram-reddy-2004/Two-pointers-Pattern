@@ -94,23 +94,27 @@ You’ll see this pattern in problems like:
 | [0283-move-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
