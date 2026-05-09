@@ -1,0 +1,22 @@
+class Solution {
+    public int totalFruit(int[] fruits) {
+        int n= fruits.length;
+        int max_count =0;
+        Map<Integer,Integer> map = new HashMap<>();
+        int l=0;
+        for(int r=0;r<n;r++){
+            map.put(fruits[r],map.getOrDefault(fruits[r],0)+1);
+            while(map.size() > 2){
+                map.put(fruits[l],map.get(fruits[l])-1);
+                if(map.get(fruits[l])==0){
+                    map.remove(fruits[l]);
+                }
+                l++;
+            }
+          
+            max_count = Math.max(max_count,r-l+1);
+        }
+        return max_count;
+        
+    }
+}
