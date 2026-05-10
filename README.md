@@ -91,6 +91,7 @@ You’ll see this pattern in problems like:
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
@@ -102,6 +103,7 @@ You’ll see this pattern in problems like:
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
@@ -111,6 +113,7 @@ You’ll see this pattern in problems like:
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
@@ -119,6 +122,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
