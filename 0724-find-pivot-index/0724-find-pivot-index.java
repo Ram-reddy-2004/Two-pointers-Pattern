@@ -1,10 +1,12 @@
 class Solution {
     public int pivotIndex(int[] nums) {
+        int totalSum=0;
+        for(int i=0;i<nums.length;i++) totalSum+=nums[i];
+        int lsum=0;
         for(int i=0;i<nums.length;i++){
-            int lsum =0,rsum=0;
-            for(int j=0;j<i;j++) lsum+=nums[j];
-            for(int j=i+1;j<nums.length;j++) rsum+=nums[j];
+            int rsum = totalSum - lsum-nums[i];
             if(lsum == rsum) return i;
+            lsum += nums[i];
         }
         return -1;
     }
