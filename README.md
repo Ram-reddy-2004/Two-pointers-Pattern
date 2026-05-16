@@ -188,6 +188,7 @@ You’ll see this pattern in problems like:
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0577-employee-bonus) |
 | [1280-students-and-examinations](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1280-students-and-examinations) |
