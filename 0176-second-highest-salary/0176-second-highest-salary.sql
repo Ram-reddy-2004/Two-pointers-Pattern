@@ -1,2 +1,12 @@
 /* Write your PL/SQL query statement below */
-select max(salary) SecondHighestSalary from employee where salary < (select max(salary) from employee);
+SELECT
+    (
+        SELECT salary
+        FROM (
+            SELECT DISTINCT salary,
+                   DENSE_RANK() OVER (ORDER BY salary DESC) AS dk
+            FROM Employee
+        )
+        WHERE dk = 2
+    ) AS SecondHighestSalary
+FROM dual;
