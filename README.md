@@ -101,6 +101,7 @@ You’ll see this pattern in problems like:
 | [0724-find-pivot-index](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
@@ -126,6 +127,7 @@ You’ll see this pattern in problems like:
 | [0560-subarray-sum-equals-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1314-matrix-block-sum) |
@@ -146,6 +148,7 @@ You’ll see this pattern in problems like:
 | [0560-subarray-sum-equals-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
