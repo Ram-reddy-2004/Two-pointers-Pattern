@@ -158,6 +158,7 @@ You’ll see this pattern in problems like:
 | [0125-valid-palindrome](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -178,6 +179,7 @@ You’ll see this pattern in problems like:
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +190,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
