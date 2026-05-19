@@ -156,6 +156,7 @@ You’ll see this pattern in problems like:
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -174,6 +175,7 @@ You’ll see this pattern in problems like:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
