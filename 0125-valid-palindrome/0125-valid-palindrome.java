@@ -1,10 +1,11 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String str = "";
-        for(char c : s.toCharArray()){
-            if(Character.isLetterOrDigit(c)) str+=c;
+        StringBuilder sb = new StringBuilder();
+        String str = s.toLowerCase();
+        for(char c : str.toCharArray()){
+            if(Character.isLetterOrDigit(c)) sb.append(c);
         }
-        if(isPal(str.toLowerCase())) return true;
+        if(isPal(sb.toString())) return true;
         else return false;
     }
     static boolean isPal(String str){
