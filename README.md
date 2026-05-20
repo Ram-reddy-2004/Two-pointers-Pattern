@@ -153,6 +153,7 @@ You’ll see this pattern in problems like:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0125-valid-palindrome) |
@@ -169,6 +170,7 @@ You’ll see this pattern in problems like:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
@@ -217,6 +219,7 @@ You’ll see this pattern in problems like:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
