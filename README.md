@@ -110,6 +110,7 @@ You’ll see this pattern in problems like:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
@@ -145,6 +146,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +157,7 @@ You’ll see this pattern in problems like:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0058-length-of-last-word) |
