@@ -19,14 +19,7 @@ class Solution {
                 l++; 
             }
             if(r-l+1 == s1.length()){
-                boolean isMatch = true;
-                for(int i=0;i<26;i++){
-                    if(ar1[i] != ar2[i]){
-                        isMatch = false;
-                        break;
-                    }
-                }
-                if(isMatch) return true;
+                if(Arrays.equals(ar1,ar2)) return true;
             }
         }
         return false;
