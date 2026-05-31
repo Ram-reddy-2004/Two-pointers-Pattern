@@ -197,6 +197,7 @@ You’ll see this pattern in problems like:
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1903-largest-odd-number-in-string) |
@@ -234,6 +235,7 @@ You’ll see this pattern in problems like:
 | [0005-longest-palindromic-substring](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
@@ -248,4 +250,8 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1314-matrix-block-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
