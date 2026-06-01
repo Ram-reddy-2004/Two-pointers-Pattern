@@ -87,6 +87,7 @@ You’ll see this pattern in problems like:
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +149,7 @@ You’ll see this pattern in problems like:
 | ------- |
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0560-subarray-sum-equals-k) |
@@ -249,6 +251,7 @@ You’ll see this pattern in problems like:
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1314-matrix-block-sum) |
 ## Memoization
 |  |
