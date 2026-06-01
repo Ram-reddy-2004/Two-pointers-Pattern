@@ -89,6 +89,7 @@ You’ll see this pattern in problems like:
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
@@ -238,6 +239,7 @@ You’ll see this pattern in problems like:
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
