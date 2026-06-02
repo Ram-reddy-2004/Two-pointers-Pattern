@@ -92,6 +92,7 @@ You’ll see this pattern in problems like:
 | [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
@@ -245,6 +246,7 @@ You’ll see this pattern in problems like:
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
