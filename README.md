@@ -89,6 +89,7 @@ You’ll see this pattern in problems like:
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
@@ -189,6 +190,7 @@ You’ll see this pattern in problems like:
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +222,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
