@@ -89,6 +89,7 @@ You’ll see this pattern in problems like:
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
@@ -225,6 +226,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
 ## Database
