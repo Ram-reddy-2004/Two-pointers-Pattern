@@ -87,6 +87,7 @@ You’ll see this pattern in problems like:
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
@@ -205,6 +206,7 @@ You’ll see this pattern in problems like:
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
@@ -260,6 +262,7 @@ You’ll see this pattern in problems like:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1314-matrix-block-sum) |
 ## Memoization
