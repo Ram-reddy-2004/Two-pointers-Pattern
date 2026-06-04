@@ -101,6 +101,7 @@ You’ll see this pattern in problems like:
 | [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@ You’ll see this pattern in problems like:
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/1046-max-consecutive-ones-iii) |
@@ -200,6 +202,7 @@ You’ll see this pattern in problems like:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0647-palindromic-substrings) |
@@ -271,4 +274,8 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
