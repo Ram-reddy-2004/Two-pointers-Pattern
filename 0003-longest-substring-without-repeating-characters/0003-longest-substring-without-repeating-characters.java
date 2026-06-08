@@ -9,11 +9,9 @@ class Solution {
                 set.add(c);
                 maxlen = Math.max(maxlen,right-left+1);
                 right++;
-           }else{
-                if(set.contains(s.charAt(right))){
-                    set.remove(s.charAt(left));
-                    left++;
-                }
+           }else if(set.contains(s.charAt(right))){
+                set.remove(s.charAt(left));
+                left++;
            }
         }
         return maxlen;
